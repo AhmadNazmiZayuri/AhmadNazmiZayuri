@@ -4,7 +4,7 @@
 💡 Data Analyst & ML Enthusiast | Undergoing my Master's Degree in Data Science & Analytics from National University of Malaysia | Passionate about turning raw data into actionable insights
 
 🔭 **Currently working on:**  
-- Forecasting GHG Emissions using ML  
+- Medical Analytics  
 
 💻 **Tech Stack:**  
 Python | SQL | R | Power BI | Tableau | Hive
